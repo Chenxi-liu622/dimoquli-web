@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "强棒天使项目介绍"
+title:  "强棒天使团队介绍"
 image:
   feature: 001.jpg
   topPosition: 0px
