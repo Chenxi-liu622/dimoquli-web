@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "强棒天使团队介绍"
 image:
   feature: 001.jpg
