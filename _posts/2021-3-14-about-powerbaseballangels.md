@@ -3,7 +3,7 @@ layout: post
 title:  "强棒天使团队介绍"
 image:
   feature: 001.jpg
-  topPosition: 0px
+  topPosition: 100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
